@@ -1,4 +1,1 @@
-- Programuji v Python a Bat
-- Programuji hry
-- Youtube https://www.youtube.com/@KlopydkoPRO
-- a mám GitHub :D 
+
